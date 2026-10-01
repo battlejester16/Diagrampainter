@@ -218,4 +218,4 @@ DiagramPainter is offered as a full free version with all features and updates i
 Start creating stunning diagrams today with DiagramPainter! Download now and unleash your creativity.
 
 ---
-**Last updated:** 2026-09-30 20:34:12 UTC
+**Last updated:** 2026-10-01 00:22:30 UTC
